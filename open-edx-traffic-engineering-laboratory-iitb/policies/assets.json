@@ -1,0 +1,26 @@
+{
+    "traffic-engg.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "civil09", 
+            "name": "traffic-engg.jpg", 
+            "org": "Virtual-Labs", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "traffic-engg.jpg", 
+        "filename": "asset-v1:Virtual-Labs+civil09+Anytime+type@asset+block@traffic-engg.jpg", 
+        "import_path": "traffic-engg.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Virtual-Labs", 
+            "civil09", 
+            "thumbnail", 
+            "traffic-engg.jpg", 
+            null
+        ]
+    }
+}
