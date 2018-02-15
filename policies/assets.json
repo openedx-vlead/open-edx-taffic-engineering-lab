@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "TEL-IITB", 
+            "course": "civil09", 
             "name": "traffic-engg.jpg", 
-            "org": "IIT-Bombay", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "traffic-engg.jpg", 
-        "filename": "asset-v1:IIT-Bombay+TEL-IITB+Anytime+type@asset+block@traffic-engg.jpg", 
-        "import_path": null, 
+        "filename": "asset-v1:Virtual-Labs+civil09+Anytime+type@asset+block@traffic-engg.jpg", 
+        "import_path": "traffic-engg.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "IIT-Bombay", 
-            "TEL-IITB", 
+            "Virtual-Labs", 
+            "civil09", 
             "thumbnail", 
             "traffic-engg.jpg", 
             null
